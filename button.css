@@ -1,0 +1,89 @@
+    /* button {
+        color: white;
+        background-color: purple;
+        padding: 5px 10px;
+        border-radius: 5px;
+        border: 2px solid purple;
+      }
+
+      button:hover {
+        background-color: rgb(64, 2, 64);
+        border: 2px solid rgb(64, 2, 64);
+      } */
+
+    /* button {
+        color: purple;
+        background-color: white;
+        padding: 5px 10px;
+        border-radius: 5px;
+        border: 2px solid purple;
+      }
+
+      button:hover {
+        background-color: rgb(251, 249, 251);
+      } */
+
+    .btn {
+        margin: 5px;
+        padding: 0.5em 1em;
+        border-radius: 5px;
+        border: 2px solid purple;
+        cursor: pointer;
+    }
+
+    .btn-outline {
+        color: purple;
+        background-color: white;
+    }
+
+    .btn-outline:hover {
+        background-color: rgb(251, 249, 251);
+    }
+
+    .btn-text {
+        border: none;
+        color: purple;
+        background-color: white;
+    }
+
+    .btn-text:hover {
+        background-color: rgb(248, 240, 248);
+    }
+
+    .btn-contained {
+        color: white;
+        background-color: purple;
+    }
+
+    .btn-contained:hover {
+        background-color: rgb(64, 2, 64);
+        border-color: rgb(64, 2, 64);
+    }
+
+    .btn-danger {
+        color: white;
+        background-color: rgb(196, 49, 75);
+        border-color: rgb(196, 49, 75);
+    }
+
+    .btn-danger:hover {
+        background-color: rgb(106, 26, 41);
+        border-color: rgb(106, 26, 41);
+    }
+
+    .btn-pill {
+        border-radius: 15px;
+    }
+
+    .btn-lg {
+        font-size: 20px;
+    }
+
+    .btn-sm {
+        font-size: 10px;
+    }
+
+  .article-body {
+    text-indent: 50px;
+  }
+
